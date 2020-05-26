@@ -1,6 +1,6 @@
 root: ./
 
-structure:
+structure:"http://ekkarat.w@gmail.com/documentation/gitbook.yaml
   readme: README.md
   summary: SUMMARY.md
 
